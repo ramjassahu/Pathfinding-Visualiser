@@ -13,7 +13,7 @@
 
 2. **Clone the Repository:**
    ```sh
-   git clone https://github.com/deepakkumartripathi119/Path-finding-visualiser.git
+   git clone https://github.com/ramjassahu/Pathfinding-Visualiser
    cd Path-finding-visualiser
    ```
 
